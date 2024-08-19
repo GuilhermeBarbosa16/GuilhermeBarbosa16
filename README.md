@@ -2,7 +2,7 @@
 
 I'm a front-end developer with experience in various technologies. Here’s a bit about me:
 
-- 🌱 Currently learning and deepening: React, TypeScrpit
+- 🌱 Currently learning and specializing: React, TypeScrpit
 - 💬 Ask me about: JavaScript, React, TypeScript, PHP, Laravel
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guilherme-almeida-a873b723a/) | [Instagram](https://instagram.com/guilhermin_almeida?igshid=YmMyMTA2M2Y=) | [Gmail](mailto:guiba1616@gmail.com)
 
