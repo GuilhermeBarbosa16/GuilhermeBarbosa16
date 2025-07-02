@@ -1,14 +1,15 @@
 ### Oi, eu sou o Guilherme!  
-Front-end Developer apaixonado por interfaces incríveis e boas risadas.
+Desenvolvedor Full Stack apaixonado por soluções web modernas 
 
 <img src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" width="200" alt="Gato batendo no notebook" align="right" />
 
 #### 🚀 Sobre mim
-- 👨‍💻 Desenvolvedor front-end com foco em React e TypeScript  
-- 📚 Sempre aprendendo e testando novas tecnologias  
-- 💬 Me chama pra conversar sobre: JavaScript, React, TypeScript, PHP e Laravel  
+- 👨‍💻 Desenvolvedor com experiência em aplicações web escaláveis e responsivas  
+- 🔧 Atuo com tecnologias como **React**, **TypeScript**, **Laravel**, **PHP** e **MySQL**  
+- 💼 Experiência no setor público e como freelancer criando soluções sob demanda  
+- 🎯 Buscando contribuir em projetos inovadores, com foco em performance e usabilidade  
 - 🌐 Contato:  
-  [LinkedIn](https://www.linkedin.com/in/guilherme-almeida-a873b723a/) ・ [Instagram](https://instagram.com/guilhermin_almeida?igshid=YmMyMTA2M2Y=) ・ [Gmail](mailto:guiba1616@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/guilherme-almeida-a873b723a/) ・ [Portfólio](https://guilhermebarbosa16.github.io/Portfolio) ・ [Gmail](mailto:guiba1616@gmail.com)
 
 ---
 
@@ -16,10 +17,11 @@ Front-end Developer apaixonado por interfaces incríveis e boas risadas.
 
 <div style="display: inline_block">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ---
@@ -35,14 +37,7 @@ Front-end Developer apaixonado por interfaces incríveis e boas risadas.
 
 ### ✨ Projetos em destaque
 - [FinWise](https://github.com/GuilhermeBarbosa16/finwise) - Sistema de gestão financeira com React + Firebase  
-- [Meu Portfólio](https://github.com/GuilhermeBarbosa16/portfolio) - Portfólio pessoal com animações e layout moderno  
-- [Outros projetos aqui...](https://github.com/GuilhermeBarbosa16?tab=repositories)
+- [Portfólio pessoal](https://github.com/GuilhermeBarbosa16/portfolio) - Website com animações, layout moderno e responsivo  
+- [Mais no meu GitHub](https://github.com/GuilhermeBarbosa16?tab=repositories)
 
 ---
-
-<!--
-Você pode descomentar abaixo para futuras atualizações:
-### 📽️ Em breve
-- Blog pessoal
-- Canal com tutoriais de desenvolvimento
--->
