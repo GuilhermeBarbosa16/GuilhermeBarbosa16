@@ -9,7 +9,7 @@ Desenvolvedor Full Stack apaixonado por soluções web modernas
 - 💼 Experiência no setor público e como freelancer criando soluções sob demanda  
 - 🎯 Buscando contribuir em projetos inovadores, com foco em performance e usabilidade  
 - 🌐 Contato:  
-  [LinkedIn](https://www.linkedin.com/in/guilherme-almeida-a873b723a/) ・ [Portfólio](https://guilhermebarbosa16.github.io/Portfolio) ・ [Gmail](mailto:guiba1616@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/guilhermealmeidabarbosa/) ・ [Portfólio](https://portfolio-guilherme-s-projects-38675229.vercel.app) ・ [Gmail](mailto:guiba1616@gmail.com)
 
 ---
 
